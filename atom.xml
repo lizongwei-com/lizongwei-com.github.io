@@ -4,7 +4,7 @@
   <title><![CDATA[sunnyxx's blog]]></title>
   <link href="http://sunnyxx.github.io/atom.xml" rel="self"/>
   <link href="http://sunnyxx.github.io/"/>
-  <updated>2013-09-21T17:40:17+08:00</updated>
+  <updated>2013-09-21T17:46:58+08:00</updated>
   <id>http://sunnyxx.github.io/</id>
   <author>
     <name><![CDATA[Sunny Sun]]></name>
@@ -41,7 +41,20 @@
     <link href="http://sunnyxx.github.io/blog/2013/09/21/hello-world/"/>
     <updated>2013-09-21T17:18:00+08:00</updated>
     <id>http://sunnyxx.github.io/blog/2013/09/21/hello-world</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<blockquote><p>小龙是8peer</p><footer><strong>宋阳</strong> <cite>命名者</cite></footer></blockquote>
+
+
+
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="n">main</span><span class="p">();</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p><span class='pullquote-right' data-pullquote='surround it like this'>
+Surround your paragraph with the pull quote tags. Then when you come to
+the text you want to pull, surround it like this and that&rsquo;s all there is to it.
+</span></p>
 ]]></content>
   </entry>
   
