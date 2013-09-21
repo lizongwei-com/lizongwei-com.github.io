@@ -4,7 +4,7 @@
   <title><![CDATA[sunnyxx's blog]]></title>
   <link href="http://sunnyxx.github.io/atom.xml" rel="self"/>
   <link href="http://sunnyxx.github.io/"/>
-  <updated>2013-09-21T17:25:12+08:00</updated>
+  <updated>2013-09-21T17:40:17+08:00</updated>
   <id>http://sunnyxx.github.io/</id>
   <author>
     <name><![CDATA[Sunny Sun]]></name>
@@ -19,6 +19,20 @@
     <updated>2013-09-21T17:23:00+08:00</updated>
     <id>http://sunnyxx.github.io/blog/2013/09/21/is-me-there</id>
     <content type="html"><![CDATA[<p>Hey is me there?</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Awesome code snippet</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span>8peer </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="p">[</span><span class="err">小龙</span> <span class="n">do2b</span><span class="p">];</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 ]]></content>
   </entry>
   
