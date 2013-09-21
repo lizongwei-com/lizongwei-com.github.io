@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[sunnyxx's blog]]></title>
+  <title><![CDATA[sunnyxx's]]></title>
   <link href="http://sunnyxx.github.io/atom.xml" rel="self"/>
   <link href="http://sunnyxx.github.io/"/>
-  <updated>2013-09-21T18:04:28+08:00</updated>
+  <updated>2013-09-21T21:14:39+08:00</updated>
   <id>http://sunnyxx.github.io/</id>
   <author>
     <name><![CDATA[Sunny Sun]]></name>
@@ -14,56 +14,27 @@
 
   
   <entry>
-    <title type="html"><![CDATA[3rd post updated?]]></title>
-    <link href="http://sunnyxx.github.io/blog/2013/09/21/3rd-post-updated/"/>
-    <updated>2013-09-21T18:04:00+08:00</updated>
-    <id>http://sunnyxx.github.io/blog/2013/09/21/3rd-post-updated</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[is me there?]]></title>
-    <link href="http://sunnyxx.github.io/blog/2013/09/21/is-me-there/"/>
-    <updated>2013-09-21T17:23:00+08:00</updated>
-    <id>http://sunnyxx.github.io/blog/2013/09/21/is-me-there</id>
-    <content type="html"><![CDATA[<p>Hey is me there?</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>Awesome code snippet</span></code></pre></td></tr></table></div></figure>
-
-
-
-
-<figure class='code'><figcaption><span>8peer </span></figcaption>
- <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="p">[</span><span class="err">小龙</span> <span class="n">do2b</span><span class="p">];</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[hello world]]></title>
     <link href="http://sunnyxx.github.io/blog/2013/09/21/hello-world/"/>
     <updated>2013-09-21T17:18:00+08:00</updated>
     <id>http://sunnyxx.github.io/blog/2013/09/21/hello-world</id>
-    <content type="html"><![CDATA[<blockquote><p>小龙是8peer</p><footer><strong>宋阳</strong> <cite>命名者</cite></footer></blockquote>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sunnyxx.github.io/images/dog.png" width="100" height="100" title="image" alt="images"></p>
+
+<blockquote><p>小龙是8peer</p></blockquote>
 
 
-
+<hr />
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="n">main</span><span class="p">();</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="cp">#define WJL 大2b</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
-<p><span class='pullquote-right' data-pullquote='surround it like this'>
-Surround your paragraph with the pull quote tags. Then when you come to
-the text you want to pull, surround it like this and that&rsquo;s all there is to it.
-</span></p>
+<!-- more -->
+
+
+<p><strong>fucking</strong>
+<code>backtick_codeblock</code></p>
 ]]></content>
   </entry>
   
