@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[sunnyxx's blog]]></title>
+  <link href="http://sunnyxx.github.io/atom.xml" rel="self"/>
+  <link href="http://sunnyxx.github.io/"/>
+  <updated>2013-09-21T17:25:12+08:00</updated>
+  <id>http://sunnyxx.github.io/</id>
+  <author>
+    <name><![CDATA[Sunny Sun]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[is me there?]]></title>
+    <link href="http://sunnyxx.github.io/blog/2013/09/21/is-me-there/"/>
+    <updated>2013-09-21T17:23:00+08:00</updated>
+    <id>http://sunnyxx.github.io/blog/2013/09/21/is-me-there</id>
+    <content type="html"><![CDATA[<p>Hey is me there?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://sunnyxx.github.io/blog/2013/09/21/hello-world/"/>
+    <updated>2013-09-21T17:18:00+08:00</updated>
+    <id>http://sunnyxx.github.io/blog/2013/09/21/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
