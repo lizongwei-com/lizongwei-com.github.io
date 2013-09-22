@@ -2,11 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://sunnyxx.github.io/blog/2013/09/21/hello-world/</loc>
-        <lastmod>2013-09-21T21:27:40+08:00</lastmod>
+        <lastmod>2013-09-23T00:00:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sunnyxx.github.io/blog/2013/09/22/xin-objczhi-at-import/</loc>
+        <lastmod>2013-09-23T01:38:01+08:00</lastmod>
     </url>
     <url>
         <loc>http://sunnyxx.github.io/blog/archives/</loc>
-        <lastmod>2013-09-21T21:27:40+08:00</lastmod>
+        <lastmod>2013-09-23T01:38:01+08:00</lastmod>
     </url>
     <url>
         <loc>http://sunnyxx.github.io/blog/categories/</loc>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://sunnyxx.github.io/</loc>
-        <lastmod>2013-09-21T21:27:40+08:00</lastmod>
+        <lastmod>2013-09-23T01:38:01+08:00</lastmod>
     </url>
     <url>
         <loc>http://sunnyxx.github.io/robots.txt</loc>
