@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://sunnyxx.github.io
+title: sunnyxx's
+subtitle: Here's a blog where my blogs blog
+author: Sunny Sun
 simple_search: http://google.com/search
-description:
+description: git push
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -90,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: sunnyxx
+disqus_show_comment_count: ture
 
 # Google Analytics
 google_analytics_tracking_id:
